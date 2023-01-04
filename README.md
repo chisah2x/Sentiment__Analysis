@@ -4,7 +4,7 @@ Classify the tweets on US Airline as positive, neutral, negative.
 # Sentiment Analysis
 Sentiment analysis refers to the use of Natural language processing (NLP), text analysis and computation to systematically extract, identify and classify information into specific categories. This project uses Random Forest Classifier, Support Vector Machine and Multinomial Naive Bayes models from sklearn library in python.
 
-#References
+# References
 
 https://www.analyticsvidhya.com/blog/2021/06/nlp-sentiment-analysis/
 
