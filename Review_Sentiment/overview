@@ -1,0 +1,19 @@
+In this digitalized world, products are available within the reach of customers where the customer doesn’t have to go out of their house. As now a day’s people are relying on online products so the importance of a review is going higher. 
+
+# Product Reviews Sentiment Analysis in Python:
+So here comes the Machine learning part, i.e. Natural Language Processing (NLP) to overcome the problem of large datasets and analyze it. Our task is to predict whether the review given is positive, neutral or negative. The real dataset after scraping the website might include millions of reviews. 
+
+## Steps to be followed:
+Importing Libraries and collecting data
+Preprocessing and cleaning the reviews 
+Analysis of the Dataset
+Converting text into Vectors
+Model training, Evaluation, and Prediction
+
+The libraries used are : 
+
+Selenium webscrapping tool : for collecting data from any ecommerce website
+Pandas : For importing the dataset.
+Scikit-learn : For importing the model, accuracy module, and TfidfVectorizer.
+Matplotlib : To plot the visualization. 
+NLTK, re : for preprocessing and cleaning text
