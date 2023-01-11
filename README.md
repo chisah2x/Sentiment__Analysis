@@ -1,7 +1,6 @@
 # Sentiment Analysis 
 Classify the tweets/reviews as positive, neutral, negative.
 
-# Sentiment Analysis
 Sentiment analysis refers to the use of Natural language processing (NLP), text analysis and computation to systematically extract, identify and classify information into specific categories. This project uses Random Forest Classifier, Support Vector Machine and Multinomial Naive Bayes models from sklearn library in python.
 
 # References
